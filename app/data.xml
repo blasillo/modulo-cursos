@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<modules>
+  <module>
+    <title>Proceso de Aprendizaje</title>
+    <author>Cry0l1t3</author>
+    <tier>0</tier>
+  </module>
+  <module>
+    <title>Introducción al Hacking</title>
+    <author>Haris Pylarinos</author>
+    <tier>0</tier>
+  </module>
+
+  <module>
+    <title>Enumeración de redes con Nmap</title>
+    <author>Cry0l1t3</author>
+    <tier>1</tier>
+  </module>
+  <module>
+    <title>Introducción a Python 3</title>
+    <author>Fugl</author>
+    <tier>1</tier>
+  </module>
+
+  <module>
+    <title>Hackeando WordPress</title>
+    <author>mrb3n</author>
+    <tier>2</tier>
+  </module>
+  <module>
+    <title>Crackeo de Contraseñas con Hashcat</title>
+    <author>mrb3n</author>
+    <tier>2</tier>
+  </module>
+
+  <module>
+    <title>Ataques Kerberos</title>
+    <author>pixis</author>
+    <tier>3</tier>
+  </module>
+  <module>
+    <title>Ataques a Confianzas en Active Directory</title>
+    <author>Sentinal</author>
+    <tier>3</tier>
+  </module>
+  
+  <module>
+    <title>Codificación Segura 101: JavaScript</title>
+    <author>21y4d</author>
+    <tier>4</tier>
+  </module>
+  <module>
+    <title>Active Directory con PowerView</title>
+    <author>mrb3n</author>
+    <tier>4</tier>
+  </module>
+</modules>
